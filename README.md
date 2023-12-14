@@ -5,7 +5,7 @@ I'm a Data Science student 💻📊 with a passion for building applications tha
 
 Here are some of my most recent projects:
 
-	| Syntax | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
@@ -14,6 +14,7 @@ Here are some of my most recent projects:
 | Title | Last Light |
 | Description | As Player and Pixie navigate through the darkness of the lighthouse, all while fending off an endless horde of monsters.  |
 | About | |
+| ----------- | ----------- |
 
 <!--
 **Jcssss/Jcssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
