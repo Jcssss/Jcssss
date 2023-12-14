@@ -7,7 +7,7 @@ Here are some of my most recent projects:
 
 | Title | Tools/Languages | Description |
 | ---------------- | ------------- | ------------------------------------------- |
-| Last Light | Unity, C# | A 2D Platformer in which the player and their companion, Pixie, must navigate through the darkness of a lighthouse, all while fending off an endless horde of monsters. |
+| Last Light | Unity, C# | A 2D Platformer created in 72 hours for the Ludum Dare 54 Game Jam |
 
 <!--
 **Jcssss/Jcssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
