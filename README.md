@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Justin. Thanks for stopping by! 😄
+
+Here's a little about me...
+I'm a Data Science student with a passion for building applications that enable users to learn, understand, and create. When I'm not programming in my spare time, you'll often find me playing badminton or crocheting.
+
+Here are some of my most recent projects:
+1. Last Light
+   A 2D Platformer where the player must control a pixie in order to avoid monsters, activate platforms, and escape the darkness of the lighthouse. I, along with a team of 6 others, submitted this game for Ludum Dare 54, the world's largest Game Jam!
+2. 
+3.
 
 <!--
 **Jcssss/Jcssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
