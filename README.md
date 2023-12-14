@@ -5,7 +5,7 @@ I'm a Data Science student 💻📊 with a passion for building applications tha
 
 Here are some of my most recent projects:
 
-| Title <!-- $style="min-width: 400px" --> | Tools/Languages | Description |
+| Title &nbsp; &nbsp; | Tools/Languages | Description |
 | ----------- | ----------- | ---------- |
 | Last Light | Unity, C# | A 2D Platformer in which the player and their companion, Pixie, must navigate through the darkness of a lighthouse, all while fending off an endless horde of monsters. |
 
