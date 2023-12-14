@@ -8,7 +8,7 @@ Here are some of my most recent projects:
 | Title | Tools/Languages | Description |
 | ---------------- | ------------- | ------------------------------------------- |
 | Last Light | Unity, C# | A 2D Platformer created in 72 hours for the Ludum Dare 54 Game Jam |
-| TFT Team Builder | React, HTML, CSS, Javascript | A responsive website, allowing users to plan and organize their teams for the video game Teamfight Tactics |
+| TFT Team Builder | React, HTML, CSS, Javascript | A responsive website allowing users to plan and organize their teams for the video game Teamfight Tactics |
 
 <!--
 **Jcssss/Jcssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
