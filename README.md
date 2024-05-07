@@ -1,7 +1,7 @@
 ### Hi there, I'm Justin. Thanks for stopping by! 😄
 
 Here's a little about me...
-I'm a Data Science student 💻📊 with a passion for building applications that enable users to learn 📚, understand 💡, and create 🛠️. When I'm not programming, you'll often find me playing badminton 🏸 or crocheting 🧶.
+I'm a Data Science student 💻📊 with a passion for building applications that enable users to learn 📚, understand 💡, and create 🛠️. When I'm not programming, you'll often find me playing badminton 🏸, crocheting 🧶, or completing a puzzle with my family 🧩.
 
 <!--
 Here are some of my most recent projects:
